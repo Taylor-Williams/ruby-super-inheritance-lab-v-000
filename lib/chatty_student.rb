@@ -1,5 +1,3 @@
-require "./student.rb"
-
 class Chatty_Student < Student
 
   def initialize
